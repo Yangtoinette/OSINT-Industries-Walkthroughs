@@ -20,7 +20,7 @@
 
 ---
 
-# Osint Industries Walkthroughs & Writeups
+# Osint Industries Writeups
 
 All writeups for the challenges I've completed will be there (hopefully ?).
 All the challenges will not have a writeup, because I started this repository way after completing my first one.
