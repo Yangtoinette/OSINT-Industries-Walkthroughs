@@ -2,11 +2,13 @@
 
 Résolutions de challenges OSINT — format Markdown.
 
-> Index généré automatiquement — 30/06/2026 19:49 UTC · **0 write-up(s)**
+> Index généré automatiquement — 30/06/2026 20:13 UTC · **1 write-up(s)**
 
 ---
 
-_Aucun write-up pour le moment._
+| Challenge | Plateforme | Catégorie | Difficulté | Date | Points |
+|:----------|:-----------|:----------|:-----------|:-----|-------:|
+| [Find the masked man](writeups/find-the-mask-man.md) | OSINTOPIA | GEOINT | Easy | [25 juin 2026] | 3 |
 
 ---
 
