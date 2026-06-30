@@ -2,7 +2,7 @@
 
 Résolutions de challenges OSINT — format Markdown.
 
-> Index généré automatiquement — 30/06/2026 20:19 UTC · **1 write-up(s)**
+> Index généré automatiquement — 30/06/2026 20:28 UTC · **1 write-up(s)**
 
 ---
 
