@@ -31,8 +31,7 @@ points: "3"
 | Outil | Rôle |
 |:------|:-----|
 | `Google maps` | Trouver la localisation précise |
-| `[Outil 2]` | [Description du rôle] |
-| `[Outil 3]` | [Description du rôle] |
+| `Google street view` | Visualiser l'endroit, et confirmer |
 
 ---
 
@@ -57,7 +56,7 @@ En regardant encore de plus près, on peut deviner la dernière partie du mot pr
 Cela réduit les pistes à : boulangerie, patisserie, poissonerie, droguerie.
 On voit sur le sol un marquage de piste cyclable.
 
-> **Trouvé :** On sait que ce n'est pas un magasin de vêtements, ou une boutique de luxe ou de bijoux qui doit être trouvée.
+> **Résultat :** On sait que ce n'est pas un magasin de vêtements, ou une boutique de luxe ou de bijoux qui doit être trouvée.
 
 ---
 
@@ -70,10 +69,6 @@ Il n'y a que 4 résultats : Maison Julien (deux fois), Boulangerie Julien, Maiso
 En allant voir les photos associées aux différentes boulangeries, une seule correspond à la photo : celle située Rue du Commandant Rivière.
 
 Un passage sur Google Street view confirme que c'est bien le lieu cherché.
-
-```
-[commande ou sortie d'outil]
-```
 
 > **Confirmé :** Maison Julien
 
