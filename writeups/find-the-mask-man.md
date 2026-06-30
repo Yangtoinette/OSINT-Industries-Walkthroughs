@@ -1,9 +1,9 @@
 ---
 title: "Find the masked man"
-platform: "OSINTOPIA"
+platform: "OSINT INDUSTRIES"
 category: "GEOINT"
 difficulty: "Easy"
-date: "[25 juin 2026]"
+date: "25 juin 2026"
 points: "3"
 ---
 
@@ -13,7 +13,7 @@ points: "3"
 
 | Plateforme | Catégorie | Difficulté | Date | Points |
 |:-----------|:----------|:-----------|:-----|-------:|
-| [Plateforme] | [Catégorie] | Medium | [Date] | 350 |
+| OSINT INDUSTRIES | GEOINT | Easy | 25 juin 2026 | 3 |
 
 ---
 
