@@ -14,7 +14,7 @@ SLUG=$(echo "$NAME" \
   | sed 's/[^a-z0-9]/-/g' \
   | sed 's/-\+/-/g; s/^-//; s/-$//')
 
-SRC="writeups/TEMPLATE.md"
+SRC="templates/TEMPLATE.md"
 DST="writeups/${SLUG}.md"
 
 [[ ! -f "$SRC" ]] && echo "Template introuvable : $SRC" && exit 1

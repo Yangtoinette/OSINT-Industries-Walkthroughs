@@ -1,7 +1,7 @@
 ---
 title: "[Titre du challenge]"
 platform: "[OSINTOPIA / TryHackMe / CTF]"
-category: "[Géolocalisation / OSINT / Stéganographie]"
+category: "[GEOINT / OSINT / CTF]"
 difficulty: "Medium"
 date: "[JJ mois AAAA]"
 points: "350"
